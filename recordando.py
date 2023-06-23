@@ -1,7 +1,6 @@
-print("I can do it!")
-
-#esto es un comentari
-#ingresa tu nombre
-
-nombre= input("Ingresa tu nombre: ")
-print("Hola", nombre)
+#Estructuras repetitiva FOR
+for a in range (10):
+    print(a)
+print("")
+for m in range (2,8):
+    print(m)
